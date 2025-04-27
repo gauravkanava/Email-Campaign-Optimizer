@@ -1,7 +1,6 @@
-# 📧 Email Marketing Campaign - ML Assignment
+# 📧 Email Marketing Campaign
 
 **Author**: Gaurav Kanava  
-**Role**: ML Intern Application Assignment
 
 ---
 
