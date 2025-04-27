@@ -1,7 +1,5 @@
 # 📧 Email Marketing Campaign
 
-**Author**: Gaurav Kanava  
-
 ---
 
 ## 🧠 Objective
