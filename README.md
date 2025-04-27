@@ -1,6 +1,5 @@
 # 📧 Email Marketing Campaign
 
----
 
 ## 🧠 Objective
 Analyze the performance of an email marketing campaign and build a machine learning model to improve future campaign targeting.
