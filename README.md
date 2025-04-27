@@ -1,4 +1,4 @@
-# 📧 Email Marketing Campaign
+# 📧 Email Campaign Optimizer
 
 
 ## 🧠 Objective
