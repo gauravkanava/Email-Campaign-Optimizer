@@ -13,7 +13,7 @@ Analyze the performance of an email marketing campaign and build a machine learn
 ## 🛠️ Tools
 - Python
 - Pandas
-- scikit-learn
+- Scikit-Learn
 - Random Forest Classifier
 
 ## 🔍 Key Results
